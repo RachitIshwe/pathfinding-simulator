@@ -23,6 +23,6 @@ This is a Pygame application that shows how A* and Dijkstra's algorithms find th
 Make sure you have Python installed, then clone this repository and install Pygame:
 
 ```bash
-git clone [https://github.com/your-username/shortest-path.git](https://github.com/RachitIshwe/shortest-path.git)
+git clone [https://github.com/RachitIshwe/shortest-path.git](https://github.com/RachitIshwe/shortest-path.git)
 cd shortest-path
 pip install pygame
